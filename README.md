@@ -53,7 +53,7 @@ Public Key.
 Balance.
 Vartotojų balansas keičiamas tada, kai patvirtinama transakcija.
 
-[Imgur](https://i.imgur.com/X8pCbni.png)
-[Imgur](https://i.imgur.com/rDw17ev.jpg)
-[Imgur](https://i.imgur.com/X8pCbni.png)
+![Imgur](https://i.imgur.com/X8pCbni.png)
+![Imgur](https://i.imgur.com/rDw17ev.jpg)
+![Imgur](https://i.imgur.com/X8pCbni.png)
 
